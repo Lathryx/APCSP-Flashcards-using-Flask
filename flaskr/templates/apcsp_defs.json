@@ -1,0 +1,282 @@
+[
+   {
+      "uid":0,
+      "term":"Bandwidth",
+      "definition":"the maximum rate of data that can be transferred across a path"
+   },
+   {
+      "uid":1,
+      "term":"Bit",
+      "definition":"a binary number"
+   },
+   {
+      "uid":2,
+      "term":"Bit Rate",
+      "definition":"the rate at which bits are transferred in a given time "
+   },
+   {
+      "uid":3,
+      "term":"Broadband",
+      "definition":"a wide bandwidth which transports multiple signals"
+   },
+   {
+      "uid":4,
+      "term":"Bus Topology",
+      "definition":"a network of multiple devices on the web that are connected to one single cable"
+   },
+   {
+      "uid":5,
+      "term":"Client/Server Model",
+      "definition":"a application that divides work between clients and servers"
+   },
+   {
+      "uid":6,
+      "term":"Computer Network",
+      "definition":"a collection of computers as well as other hardware devices that are connected in order to share data, hardware, and software, and to provide communication"
+   },
+   {
+      "uid":7,
+      "term":"Computing Device",
+      "definition":"a device that can perform substantial computations. It performs things such as logic operations without human involvement"
+   },
+   {
+      "uid":8,
+      "term":"Computing System",
+      "definition":"one or more systems with shared storage"
+   },
+   {
+      "uid":9,
+      "term":"Data Stream",
+      "definition":"a continuous sequence of data that is transmitted/received"
+   },
+   {
+      "uid":10,
+      "term":"Digital Subscriber Line (DSL)",
+      "definition":"a family of technology used to transmit data over phone lines"
+   },
+   {
+      "uid":11,
+      "term":"Domain Name System",
+      "definition":"the Internet's system for mapping alphabetic names to numeric IPs"
+   },
+   {
+      "uid":12,
+      "term":"Download",
+      "definition":"copying data from one data system to another, over a network or modem"
+   },
+   {
+      "uid":13,
+      "term":"Dynamic Routing",
+      "definition":"a process where a router can forward data using a different route or given destination"
+   },
+   {
+      "uid":14,
+      "term":"Ethernet",
+      "definition":"a system for connecting a number of computer systems to form a local area network, that has protocols to control the passing of information"
+   },
+   {
+      "uid":15,
+      "term":"Fault Tolerant",
+      "definition":"a system\u2019s ability to continue after parts malfunctioning"
+   },
+   {
+      "uid":16,
+      "term":"File Server",
+      "definition":"a central server instance in a computer network that enables connected clients access to the server's storage capacities"
+   },
+   {
+      "uid":17,
+      "term":"Gateway",
+      "definition":"a device used to connect two different networks, especially a connection to the internet"
+   },
+   {
+      "uid":18,
+      "term":"HTTP/HTTPS",
+      "definition":"a protocol for sending and receiving information over a network"
+   },
+   {
+      "uid":19,
+      "term":"Internet",
+      "definition":"a network consisting of other networks that control and connect computers around the world"
+   },
+   {
+      "uid":20,
+      "term":"Internet Corporation for Assigned Names & Numbers (ICANN)",
+      "definition":"the authoritative source of the distribution of IP addresses and top-level domain names"
+   },
+   {
+      "uid":21,
+      "term":"Internet Engineering Taskforce (IETF)",
+      "definition":"an open standards organization, which develops and promotes voluntary Internet standards,"
+   },
+   {
+      "uid":22,
+      "term":"Internet Protocol (IP)",
+      "definition":"the rules governing the format of data which is sent over the internet"
+   },
+   {
+      "uid":23,
+      "term":"Internet Service Provider (ISP)",
+      "definition":"an organization that provides access to the internet"
+   },
+   {
+      "uid":24,
+      "term":"Interoperability",
+      "definition":"the ability of computer systems or software to exchange and make use of information"
+   },
+   {
+      "uid":25,
+      "term":"IP address",
+      "definition":"the four-octet number that identifies a device"
+   },
+   {
+      "uid":26,
+      "term":"Local Area Network (LAN)",
+      "definition":"a network that is exclusive for a physical area or property such as a home or workplace. This network may have outward Internet access, but most LAN networks don\u2019t have many visible openings to the internet aside from the public IP address of the network"
+   },
+   {
+      "uid":27,
+      "term":"Metropolitan Area Network (MAN)",
+      "definition":"a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area"
+   },
+   {
+      "uid":28,
+      "term":"Node (Host)",
+      "definition":"a connection point that can receive, send, create or store data"
+   },
+   {
+      "uid":29,
+      "term":"Open System",
+      "definition":"an open-source operating system that is interoperable between different software and hardware"
+   },
+   {
+      "uid":30,
+      "term":"Open Systems Interconnection Reference Model",
+      "definition":"a model used to describe and define the individual levels used in the transmission of data, whether it be software or hardware"
+   },
+   {
+      "uid":31,
+      "term":"Open Protocols",
+      "definition":"a standard that provides ways to standardize data transmission between different devices"
+   },
+   {
+      "uid":32,
+      "term":"Packets",
+      "definition":"the collections of data that get sent from a device to a server or another device"
+   },
+   {
+      "uid":33,
+      "term":"Packet Switching",
+      "definition":"the mechanisim that splits a message into several packets that are routed independently to where their destination is"
+   },
+   {
+      "uid":34,
+      "term":"Parallel Solution",
+      "definition":"a type of computing solution in which several processors simultaneously break up a task into smaller pieces and execute those pieces at the same time, each on their own processor or computer. This kind of solution is usually faster"
+   },
+   {
+      "uid":35,
+      "term":"Path",
+      "definition":"a definition of the order in which an operating system or program searches for a file or executable program"
+   },
+   {
+      "uid":36,
+      "term":"Ping",
+      "definition":"a networking utility that measures the reaction time of your connection"
+   },
+   {
+      "uid":37,
+      "term":"Proprietary System",
+      "definition":"a system that uses protocols or software whose rights are held by the creators"
+   },
+   {
+      "uid":38,
+      "term":"Protocol",
+      "definition":"a term used to define a set of procedures that allow data to be transmitted between devices, exchange information, and provide better communication"
+   },
+   {
+      "uid":39,
+      "term":"Redundancy",
+      "definition":"the concept of a duplicate copy of something to use in the event of a failure to enforce fault tolerence"
+   },
+   {
+      "uid":40,
+      "term":"Ring Topology",
+      "definition":"a network configuration where each networked device is connected to two other devices on either side of it to form a circular \"ring\" data path"
+   },
+   {
+      "uid":41,
+      "term":"Router",
+      "definition":"a computer/device designed to receive/redirect packets of information based upon the addressing information (ex: IP address) contained in the packet. Routers will either deliver a packet to its final destination or forward it to one of several other routers it is connected to"
+   },
+   {
+      "uid":42,
+      "term":"Routing",
+      "definition":"the process of selecting a path for traffic in a network or across many networks"
+   },
+   {
+      "uid":43,
+      "term":"Scalability",
+      "definition":"the ability to change the size or scale"
+   },
+   {
+      "uid":44,
+      "term":"Sequential Computing",
+      "definition":"the concept of how code is read in order from top to bottom in a sequence"
+   },
+   {
+      "uid":45,
+      "term":"Speedup of a parallel solution",
+      "definition":"the ratio of the time it took to complete the task sequentially versus in parallel"
+   },
+   {
+      "uid":46,
+      "term":"Star Topology",
+      "definition":"the concept where each individual component of the network is attached to a central hub or switch"
+   },
+   {
+      "uid":47,
+      "term":"TCP/IP",
+      "definition":"the protocols used to allow computers to communicate using the internet over long distances"
+   },
+   {
+      "uid":48,
+      "term":"Transmission Control Protocol (TCP)",
+      "definition":"a defined standard of data transmission over the Internet"
+   },
+   {
+      "uid":49,
+      "term":"Uniform Resource Locator (URL)",
+      "definition":"a unique address to locate a site"
+   },
+   {
+      "uid":50,
+      "term":"Upload",
+      "definition":"the data being sent from your computer to the internet"
+   },
+   {
+      "uid":51,
+      "term":"User Datagram Protocol (UDP)",
+      "definition":"a communications protocol that facilitates the exchange of messages between computing devices in a network"
+   },
+   {
+      "uid":52,
+      "term":"Web Server",
+      "definition":"a piece of software, typically ran on a dedicated, WAN-accessible server, that hosts files to be sent over multiple protocols including HTTP/HTTPS/FTP. This piece of software is the backbone of the World Wide Web"
+   },
+   {
+      "uid":53,
+      "term":"Wide Area Network (WAN)",
+      "definition":"a blanket term that usually refers to a network that connects multiple other networks to each other, see companies and IXPs like Equinix and et cetera"
+   },
+   {
+      "uid":54,
+      "term":"Wireless",
+      "definition":"the concept of telecommunication and data communication by signals being transmitted through radio waves instead of wires"
+   },
+   {
+      "uid":55,
+      "term":"World Wide Web",
+      "definition":"the concept of a mass collective of web properties available over the open Internet"
+   }
+]
