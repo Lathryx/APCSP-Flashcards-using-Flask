@@ -18,9 +18,13 @@
         <main class="text-center px-3 overflow-auto">
           <h1 class="lead" style="font-size:200%">Welcome!</h1>
           <h6 class="mx-auto text-muted mb-5 w-50" style="font-size:125%">The following application is a study program for 56 APCSP terms and definitions using flashcards.</h6>
-          <a href="https://ide-ef45180d95124ddd839fd0b82114120a-8080.cs50.ws/flashcard/0" class="btn btn-lg btn-outline-primary">Study now!</a> 
+          <a id="study-btn" href="" class="btn btn-lg btn-outline-primary">Study now!</a> 
         </main>
     </div>
-
+    
+    <script>
+      const btn = document.getElementById('study-btn'); 
+      btn.href = window.location.origin + '/flashcard/0'; 
+    </script>
   </body>
 </html>
